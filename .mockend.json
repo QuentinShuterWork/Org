@@ -2,10 +2,6 @@
   "Worker": {
     "id": "string",
     "refId": "string",
-    "email": "string",
-    "address": {
-        "addressLine1": "string",
-        "postCode": "string"
-    }
+    "email": "string"
   }
 }
