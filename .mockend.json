@@ -3,9 +3,10 @@
     "id": "string",
     "refId": "string",
     "email": "string",
-    "Address": {
+    "address": "Address"
+  },
+  "Address": {
         "addressLine1": "string",
         "postCode": "string"
-    }
   }
 }
